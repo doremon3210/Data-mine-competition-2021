@@ -22,9 +22,9 @@ Diabetes is a critical public health concern in the United States affecting 34.2
 - ![CDS](https://centerfordatasolutions.org/wp-content/uploads/2019/06/cropped-site-logo-with-text.png)
 - Partner Contract:
 
-  1. Carmen Smotherman, MS, MPH (Carmen.Smotherman@jax.ufl.edu)
-  2. Christina Guerrier, MBA (Christina.Guerrier@jax.ufl.edu)
-  3. Jennifer Brailsford, PhD (Jennifer.Brailsford@jax.ufl.edu)
+1. Carmen Smotherman, MS, MPH (Carmen.Smotherman@jax.ufl.edu)
+2. Christina Guerrier, MBA (Christina.Guerrier@jax.ufl.edu)
+3. Jennifer Brailsford, PhD (Jennifer.Brailsford@jax.ufl.edu)
 
 # Statistical analysis methods
 
