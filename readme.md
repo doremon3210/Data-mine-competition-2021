@@ -84,7 +84,7 @@ Read more [here](./Phase_2/Results/Results.docx)
         </tr>
             <td >Individuals 25 years and over with no high school diplomat Percent</td>
             <td rowspan = 11>Percent</td>
-            <td rowspan = 11> Independent variables </td>
+            <td rowspan = 12> Independent variables </td>
         </tr>
         <tr> 
            <td>Food insecurity rate</td>
@@ -139,7 +139,8 @@ Read more [here](./Phase_2/Results/Results.docx)
         </tr>
         </tr>
          <td> Population </td>
-         <td rowspan = 4> Total population<td>
+         <td rowspan = 4> Total population</td>
+         <td rowspan = 4></td>
        </tr> 
           <td>Population, Black</td>
       <tr>
@@ -148,7 +149,7 @@ Read more [here](./Phase_2/Results/Results.docx)
         </tr>
             <td >Individuals 25 years and over with no high school diplomat Percent</td>
             <td rowspan = 8>Percent</td>
-            <td rowspan = 9> Independent variables </td>
+            <td rowspan = 10> Independent variables </td>
         </tr> 
            <td>Proportion of Blacks</td>
         <tr> 
