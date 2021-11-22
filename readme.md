@@ -1,12 +1,14 @@
 # Project name
 
-Disparities in emergency room utilization due to diabetes across Florida’s counties
+Disparities in emergency department (ED) utilization due to diabetes across Florida’s counties
 
 **-- Project Status: Active**
 
 # Project Introduction / Relevance
 
 Diabetes is a critical public health concern in the United States affecting 34.2 million Americans (1 in 10). [^1]In Florida, 10.5% of adults over the age of 18 have been diagnosed with diabetes, with averages varying from 6.4% to 23.6% by county. [^2]Patients with poor blood glucose control and diabetes management have a greater risk of acute and chronic complications such as cardiovascular disease, dehydration, ulcers, and kidney problems, resulting in hospitalizations and significant medical expenditures. [^3][^4]The number of emergency department (ED) visits due to diabetes has increased from 2010 to 2019 in Florida. However, it is unclear what is driving the increase in ER utilization. ED utilization among patients with diabetes is likely affected by several factors, including lack of primary care, poor adherence to care plans and lifestyle and community factors. [^5]This study seeks to characterize ED utilization by county using demographic, behavioral, and community indicators.
+
+A short video summarizing this project, the methods, and results is [available on You-Tube](https://www.youtube.com/watch?v=EEArwJOTeZ8).
 
 [^1]: Centers for Disease Control and Prevention. National Diabetes Statistics Report, 2020. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Dept of Health and Human Services; 2020.
 [^2]: Florida Diabetes Advisory Council. 2019. Florida Diabetes Legislative Report. Tallahassee, FL
@@ -30,6 +32,7 @@ Diabetes is a critical public health concern in the United States affecting 34.2
 - [Numpy](https://numpy.org/install/)
 - [Seaborn](https://seaborn.pydata.org/installing.html)
 - [Matplotlib](https://matplotlib.org/stable/users/installing.html)
+- [Tableau](https://www.tableau.com/products/desktop/download)
 
 # Project description
 
@@ -44,9 +47,6 @@ Diabetes is a critical public health concern in the United States affecting 34.2
   <br />
   <br />
 
-# Results
-
-Read more [here](./Results/Results.docx)
 
 <br />
   <br />
@@ -167,6 +167,12 @@ Read more [here](./Results/Results.docx)
  </table>
 <br />
 <br />
+
+# Results
+
+Detailed results can be found [here](./Results/Results.docx). 
+
+An infographic summarizing our findings and interactive graphs are available in the [Data Visualization and Data Supplement folder](./Data%20Visualizations%20and%20Data%20Supplement/).
 
 # Contributing Members
 

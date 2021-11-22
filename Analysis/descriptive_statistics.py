@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 # Read the data and display it
-df = pd.read_excel('../Data sets/Dataset_Main.xlsx')
+df = pd.read_excel('../Data Sets/Dataset_Main.xlsx')
 
 # Summary statistics
 df_summary = df.describe().rename(index = {"50%": "median"}).drop('count')
