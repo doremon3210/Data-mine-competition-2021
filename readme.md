@@ -16,8 +16,6 @@ Diabetes is a critical public health concern in the United States affecting 34.2
 
 <br /><br />
 
-
-
 # Statistical analysis methods
 
 - The counties’ characteristics were summarized using descriptive statistics.
@@ -42,18 +40,16 @@ Diabetes is a critical public health concern in the United States affecting 34.2
 
 - In the main analysis, we examine if ED visits due to diabetes are influenced by the other variables such food insecurity rates, and other covariates, within the population in Florida using linear regression (table 1).
 - In the sub-analysis, we explore ED visits due to diabetes for black and white races. We chose only black and white races because other races have incomplete data on many variables. We analyze these covariables (table 2).
-- Below is a table outlining the data source and variables used in the main analysis and sub analysis. Data for the sub-analysis comes from the same source. There are less variables for sub-analysis due to data availability. 
+- Below is a table outlining the data source and variables used in the main analysis and sub analysis. Data for the sub-analysis comes from the same source. There are less variables for sub-analysis due to data availability.
   <br />
   <br />
-
 
 # Results
+
 Read more [here](./Phase_2/Results/Results.docx)
 
 <br />
   <br />
-
-
 
 # Table 1. Description of Data Source and Variables
 
@@ -93,7 +89,7 @@ Read more [here](./Phase_2/Results/Results.docx)
         <tr> 
            <td>Renter-occupied housing units</td>
         <tr> 
-           <td>Population living within 1/2 mile of Population living within 1/2 mile of park </td>
+           <td>Population living within 1/2 mile of park </td>
         <tr> 
            <td>Population living within 1/2 mile of fast-food restaurant</td>
         <tr> 
@@ -109,14 +105,14 @@ Read more [here](./Phase_2/Results/Results.docx)
         <tr> 
            <td>Median household income </td>
            <td> Dollars</td>
-        
 
-    
+
 </table>
 <br />
 <br />
 
 # Table 2. Sub-analysis was performed on data for White and Black races respectively
+
 <table>
     <thead>
         <tr>
@@ -172,8 +168,6 @@ Read more [here](./Phase_2/Results/Results.docx)
  </table>
 <br />
 <br />
-       
-
 
 
 # Contributing Members
