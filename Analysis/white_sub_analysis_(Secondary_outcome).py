@@ -3,7 +3,7 @@ import numpy as np
 import statsmodels.api as sm
 
 # Read the data
-sub_white = pd.read_excel('Dataset_Sub_White.xlsx')
+sub_white = pd.read_excel('../Data sets/Dataset_Sub_White.xlsx')
 
 # List the independet variable for White
 white_independent_var = ['Percentage_Population_White', 'Median_household_income', 'Renter', 'No_HS', 'Current_smokers', 'Overweight', 'Sedentary', 'Medical_checkup']

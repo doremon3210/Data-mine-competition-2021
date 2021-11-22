@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 # Read the data and display it
-df = pd.read_excel('Dataset_Main.xlsx')
+df = pd.read_excel('../Data sets/Dataset_Main.xlsx')
 print(df.head())
 print("--------------------------------------")
 
@@ -15,7 +15,7 @@ print("--------------------------------------")
 # Using Heat map to display the correlation between the variables
 plt.figure(figsize=(14, 14))
 sns.heatmap(corrMatrix, annot = True)
-plt.savefig('correlation.png', bbox_inches = 'tight')
+plt.savefig('../Results/correlation.png', bbox_inches = 'tight')
 print("Exported the heatmap to correlation.png")
 plt.tight_layout()
 plt.show()

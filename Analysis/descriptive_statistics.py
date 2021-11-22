@@ -4,12 +4,12 @@ import matplotlib.pyplot as plt
 
 
 # Read the data and display it
-df = pd.read_excel('Dataset_Main.xlsx')
+df = pd.read_excel('../Data sets/Dataset_Main.xlsx')
 
 # Summary statistics
 df_summary = df.describe().rename(index = {"50%": "median"}).drop('count')
 print(df_summary)
 
 # Export the table to an excel file
-df_summary.to_excel('descriptive_statistics_table.xlsx')
+df_summary.to_excel('../Results/descriptive_statistics_table.xlsx')
 print("Exported the table to descriptive_statistics_table.xlsx")

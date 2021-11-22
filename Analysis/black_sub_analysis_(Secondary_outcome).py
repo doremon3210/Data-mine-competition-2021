@@ -3,7 +3,7 @@ import numpy as np
 import statsmodels.api as sm
 
 # Read the data and drop NaN rows
-sub_black = pd.read_excel('Dataset_Sub_Black.xlsx')
+sub_black = pd.read_excel('../Data sets/Dataset_Sub_Black.xlsx')
 sub_black = sub_black.dropna()
 
 # List the independet variable for Black

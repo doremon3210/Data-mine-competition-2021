@@ -46,7 +46,7 @@ Diabetes is a critical public health concern in the United States affecting 34.2
 
 # Results
 
-Read more [here](./Phase_2/Results/Results.docx)
+Read more [here](./Results/Results.docx)
 
 <br />
   <br />
@@ -105,7 +105,6 @@ Read more [here](./Phase_2/Results/Results.docx)
         <tr> 
            <td>Median household income </td>
            <td> Dollars</td>
-
 
 </table>
 <br />
@@ -168,7 +167,6 @@ Read more [here](./Phase_2/Results/Results.docx)
  </table>
 <br />
 <br />
-
 
 # Contributing Members
 
