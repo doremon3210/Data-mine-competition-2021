@@ -27,8 +27,6 @@ The infographic summarizes our findings. Interactive graphs are published throug
     <td><a href="https://public.tableau.com/app/profile/shoto.fukuda/viz/Amultiplelinearregressionmodelpredictingdiabetes-relatedEDvisitsanddeathsper100000population/Dashboard2" target="_blank" rel="noopener noreferrer">Multiple linear regression model predicting diabetes-related ED visits and deaths</a></td>
     <td rowspan="2">Outcomes and indicators can be adjusted within interactive graph</td>
   </tr>
-  <tr>
-    <td><a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fshoto.fukuda%2Fviz%2FCounty-specificpredictionsfordiabetes-relatedEDvisitsanddeathsper100000population%2FMultiplelinearregressionDiabetes&data=04%7C01%7Cn01497488%40unf.edu%7C3efa22d1b0a446867da008d9aded8a91%7Cdf29b2fa8929482f9dbb60ff4df224c4%7C1%7C0%7C637732058001063552%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=xZmSc20lmWZt4ZtusjFB3C8Kwre3ZdI85eaZQlKuc8A%3D&reserved=0" target="_blank" rel="noopener noreferrer">County-specific predictions for diabetes-related ED visits and deaths</a></td>
-  </tr>
+  
 </tbody>
 </table>
