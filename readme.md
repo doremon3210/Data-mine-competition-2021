@@ -47,7 +47,6 @@ A short video summarizing this project, the methods, and results is [available o
   <br />
   <br />
 
-
 <br />
   <br />
 
@@ -170,9 +169,9 @@ A short video summarizing this project, the methods, and results is [available o
 
 # Results
 
-Detailed results can be found [here](./Results/Results.docx). 
+Detailed results can be found [here](./Results/Results.docx).
 
-An infographic summarizing our findings and interactive graphs are available in the [Data Visualization and Data Supplement folder](./Data%20Visualizations%20and%20Data%20Supplement/).
+An infographic summarizing our findings and interactive graphs are available in the [Data Visualizations and Data Supplement](./Data%20Visualizations%20and%20Data%20Supplement/).
 
 # Contributing Members
 
