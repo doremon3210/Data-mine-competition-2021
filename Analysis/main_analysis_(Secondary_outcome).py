@@ -3,7 +3,7 @@ import numpy as np
 import statsmodels.api as sm
 
 # Read the data
-df = pd.read_excel('../Data Sets/Dataset_Main.xlsx')
+df = pd.read_excel('../Datasets/Dataset_Main.xlsx')
 
 # List the indepdent variables
 independent_vars = ['Percentage_Population_Black', 'Median_household_income', 'Renter', 'No_HS', 'Park', 'Fast_food', 'Current_smokers', 'Overweight', 'Sedentary', 'Medical_checkup', 'Food_insecurity']
