@@ -2,7 +2,7 @@
 
 Disparities in emergency department (ED) utilization due to diabetes across Florida’s counties
 
-**-- Project Status: Active**
+**-- Project Status: Completed**
 
 # Project Introduction / Relevance
 
